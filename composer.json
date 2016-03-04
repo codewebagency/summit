@@ -1,0 +1,60 @@
+{
+    "require": {
+        "twig/twig": "~1.0",
+        "illuminate/config": "^5.2",
+        "illuminate/container": "^5.2",
+        "illuminate/contracts": "^5.2",
+        "illuminate/events": "^5.2",
+        "illuminate/filesystem": "^5.2",
+        "illuminate/http": "^5.2",
+        "illuminate/pipeline": "^5.2",
+        "illuminate/routing": "^5.2",
+        "illuminate/session": "^5.2",
+        "illuminate/support": "^5.2",
+        "massivescale/celery-php": "^2.1",
+        "nesbot/carbon": "^1.21",
+        "predis/predis": "^1.0",
+        "psr/log": "^1.0",
+        "symfony/debug": "^3.0",
+        "symfony/event-dispatcher": "^3.0",
+        "symfony/finder": "^3.0",
+        "symfony/http-foundation": "^3.0",
+        "symfony/http-kernel": "^3.0",
+        "symfony/polyfill-mbstring": "^1.0",
+        "symfony/routing": "^3.0",
+        "symfony/translation": "^3.0",
+        "videlalvaro/php-amqplib": "^2.6",
+        "vlucas/phpdotenv": "^2.2",
+        "propel/propel": "~2.0@dev",
+        "monolog/monolog": "^1.17",
+        "symfony/yaml": "^3.0",
+        "cartalyst/sentry": "^2.1",
+        "pmill/php-auth": "^0.2.3",
+        "ptejada/uflex": "1.0.6",
+        "php-di/php-di": "^5.2"
+        
+        
+    },
+    "classMap" : [
+        "helpers",
+        "app/config",
+        "app/Http/Controllers",
+        "app/models",
+        "core",
+        "database/models",
+        "database/models/Base",
+        "./database/generated-classes/"
+    ],
+    "autoload" : {
+       "files": ["./database/generated-conf/config.php"],
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Models\\" : "database/models",
+            "Base\\" : "database/models/Base",
+            "Helpers\\" : "helpers",
+            "ptejada\\uFlex\\" : "vendor/ptejada/uFlex/src",
+            "Map\\" : "database/models/Map",
+            "" : "database/models"
+        }
+    }
+}
