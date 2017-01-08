@@ -2,80 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8ddf8c6-2c29-42f5-bb3c-451a28e5132a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/backbone-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.Env" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/ErrorController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/ServerController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/SessionServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/home.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/register-form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/error/error_404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/error/error_form_validation.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/error/error_url_invalid.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index/ping_report.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index/port_report.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index/uptime_log.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index/uptime_report.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/admin/main.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/main.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/server/list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/login_form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/user/register_form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-admin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helpers/CelerySingleton.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helpers/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-admin.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/controllers/Error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/Item.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/Log.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/index/checkurl_form.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/error/error_404.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/error/error_form_validation.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/error/error_url_invalid.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/index/home.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/index/uptime_log.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/index/uptime_report.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/Application.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/Migration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/Model.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/MysqliDb.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/Router.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/View.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6df75f74-039d-4bb2-b362-dd89488a08c3-original.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/migrations/create_log.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/Controller.php" afterPath="$PROJECT_DIR$/core/Controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/functions.php" afterPath="$PROJECT_DIR$/core/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/backbone-min.js" afterPath="$PROJECT_DIR$/js/backbone-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.11.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/application/controllers/Index.php" afterPath="$PROJECT_DIR$/app/Http/controllers/IndexController.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/application/controllers/index.html" afterPath="$PROJECT_DIR$/app/Http/controllers/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/application/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/application/views/index.html" afterPath="$PROJECT_DIR$/app/views/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/application/views/index/log_template.php" afterPath="$PROJECT_DIR$/app/views/index/log_template.tpl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/application/views/item/item_list_view.php" afterPath="$PROJECT_DIR$/app/views/item/item_list_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/Config.php" afterPath="$PROJECT_DIR$/app/config/Config.php" />
     </list>
     <ignored path="pp_host_tracker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,12 +51,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/app.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21488763">
+            <state vertical-scroll-proportion="-5.8846154">
               <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/Config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14325842">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding>
+                <element signature="e#29#62#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/views/index/login-form.tpl" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app/views/admin/register-form.tpl" />
         <option value="$PROJECT_DIR$/app/views/admin/login-form.tpl" />
@@ -223,6 +161,7 @@
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/main.tpl" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
+        <option value="$PROJECT_DIR$/app/config/Config.php" />
       </list>
     </option>
   </component>
@@ -326,6 +265,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -336,7 +276,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -441,7 +380,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -507,14 +446,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="167" column="19" selection-start-line="167" selection-start-column="19" selection-end-line="167" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -870,9 +801,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21488763">
+        <state vertical-scroll-proportion="-5.8846154">
           <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14325842">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="e#29#62#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
